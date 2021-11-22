@@ -1,0 +1,7 @@
+/media/a7m6d/Disk_Data/project/cpp_PJ/gameChess/build/CMakeFiles/install/strip.dir
+/media/a7m6d/Disk_Data/project/cpp_PJ/gameChess/build/CMakeFiles/install/local.dir
+/media/a7m6d/Disk_Data/project/cpp_PJ/gameChess/build/CMakeFiles/install.dir
+/media/a7m6d/Disk_Data/project/cpp_PJ/gameChess/build/CMakeFiles/list_install_components.dir
+/media/a7m6d/Disk_Data/project/cpp_PJ/gameChess/build/CMakeFiles/rebuild_cache.dir
+/media/a7m6d/Disk_Data/project/cpp_PJ/gameChess/build/CMakeFiles/edit_cache.dir
+/media/a7m6d/Disk_Data/project/cpp_PJ/gameChess/build/CMakeFiles/gamechess.dir

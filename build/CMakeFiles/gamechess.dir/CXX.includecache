@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/a7m6d/Disk_Data/project/cpp_PJ/gameChess/main.cpp
+SFML/Graphics.hpp
+-
+time.h
+-
+
